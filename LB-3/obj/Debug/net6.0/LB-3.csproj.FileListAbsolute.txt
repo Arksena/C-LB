@@ -1,0 +1,15 @@
+F:\LB-C#\1\LB-3\bin\Debug\net6.0\LB-3.exe
+F:\LB-C#\1\LB-3\bin\Debug\net6.0\LB-3.deps.json
+F:\LB-C#\1\LB-3\bin\Debug\net6.0\LB-3.runtimeconfig.json
+F:\LB-C#\1\LB-3\bin\Debug\net6.0\LB-3.dll
+F:\LB-C#\1\LB-3\bin\Debug\net6.0\LB-3.pdb
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.csproj.AssemblyReference.cache
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.AssemblyInfoInputs.cache
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.AssemblyInfo.cs
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.csproj.CoreCompileInputs.cache
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.dll
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\refint\LB-3.dll
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.pdb
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\LB-3.genruntimeconfig.cache
+F:\LB-C#\1\LB-3\obj\Debug\net6.0\ref\LB-3.dll

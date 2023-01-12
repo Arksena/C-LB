@@ -1,0 +1,15 @@
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.csproj.AssemblyReference.cache
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.GeneratedMSBuildEditorConfig.editorconfig
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.AssemblyInfoInputs.cache
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.AssemblyInfo.cs
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.csproj.CoreCompileInputs.cache
+F:\LB-C#\1\LB-2\bin\Debug\net6.0\LB-2.exe
+F:\LB-C#\1\LB-2\bin\Debug\net6.0\LB-2.deps.json
+F:\LB-C#\1\LB-2\bin\Debug\net6.0\LB-2.runtimeconfig.json
+F:\LB-C#\1\LB-2\bin\Debug\net6.0\LB-2.dll
+F:\LB-C#\1\LB-2\bin\Debug\net6.0\LB-2.pdb
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.dll
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\refint\LB-2.dll
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.pdb
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\LB-2.genruntimeconfig.cache
+F:\LB-C#\1\LB-2\obj\Debug\net6.0\ref\LB-2.dll
